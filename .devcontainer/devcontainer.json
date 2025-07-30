@@ -3,7 +3,6 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "GitHub.copilot",
         "ms-vscode.live-server",
         "esbenp.prettier-vscode"
       ],
