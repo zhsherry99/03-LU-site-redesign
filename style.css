@@ -19,6 +19,12 @@ body {
 /* About Section */
 
 /* Specials Section */
+.specials {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
 
 /* Visit Us Section */
 
